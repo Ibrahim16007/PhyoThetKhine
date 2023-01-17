@@ -1,0 +1,24 @@
+body{
+    background-image: url(bg.jpg);
+}
+img{
+    width: 350px;
+    height: 300px;
+    border-radius: 20% ;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 8, 255);
+    size: 40px;
+    background-color: rgb(203, 243, 117);
+}
+p{
+    font-weight: bolder;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    size: 80px;
+}
+.container{
+    margin-top: 40px;
+}
